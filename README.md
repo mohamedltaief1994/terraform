@@ -1,3 +1,12 @@
+### Command
+ to run this project you need to type 3 command :
+ - terraform init 
+ - terraform plan 
+ - terraform apply 
+## Application Photo
+
+Pleas find application photo under images folder
+
 ## Requirements
 
 The following requirements are needed by this module:
