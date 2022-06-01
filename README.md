@@ -5,7 +5,7 @@
  - terraform apply 
 ## Application Photo
 
-Pleas find application photo under images folder
+Please find application photo under images folder
 
 ## Requirements
 
